@@ -30,5 +30,5 @@ curieuse, qui aime autant creuser les chiffres que
 présenter les résultats de façon claire et visuelle.
 
 ## 📫 Contact
-- LinkedIn : 
+- LinkedIn : www.linkedin.com/in/dounia-hedjam-18724711a
 - Email : hedjam.dounia@gmail.com
