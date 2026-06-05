@@ -1,16 +1,34 @@
-## Hi there 👋
+# Dounia Djam — Future Data Analyst 📊
 
-<!--
-**Douniadjam/Douniadjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Avant la data, je travaillais en finance opérationnelle :
+réconciliation de caisses, clôtures hebdomadaires, contrôle
+des écarts. Tous les jours, des chiffres à vérifier,
+des anomalies à détecter, des rapports à produire.
 
-Here are some ideas to get you started:
+Je travaillais déjà avec des données.
+Je n'avais juste pas encore les bons outils.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Depuis que j'ai découvert Python, SQL et Power BI,
+tout s'est connecté. Ce que je faisais manuellement,
+je peux maintenant l'automatiser, le visualiser,
+et en tirer des insights business concrets.
+
+---
+
+## 🛠️ Stack en cours d'apprentissage
+- **SQL** — extraire et interroger des données
+- **Python / Pandas** — nettoyer et analyser
+- **Power BI / Looker Studio** — dashboards clairs et visuels
+- **Excel avancé** — TCD, formules, déjà opérationnelle
+
+## 📁 Projets
+> *(En cours de construction — premiers projets à venir dans les prochaines semaines)*
+
+## 🎯 Objectif
+Data Analyst Junior — profil autodidacte, background Finance,
+curieuse, qui aime autant creuser les chiffres que
+présenter les résultats de façon claire et visuelle.
+
+## 📫 Contact
+- LinkedIn : 
+- Email : hedjam.dounia@gmail.com
